@@ -19,9 +19,10 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://github.com/RupErz/RupErz/raw/main/Resume.pdf" download target="_blank">
-    <img src="https://github.com/RupErz/RupErz/blob/main/README.md" alt="Resume" />
+    <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
   </a>
 </div>
+
 ## 🚀 About Me
 
 - 🎓 **Student** passionate about full-stack development
