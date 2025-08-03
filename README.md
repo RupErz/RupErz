@@ -8,6 +8,17 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG5lZjhyejNibmIwM2N5OTQ4eXF3MTRicnpra2Fub2JxdWJpYzJ3aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/o0vwzuFwCGAFO/giphy.gif" width="400" alt="Coding Cat"/>
 </div>
 
+<div align="center">
+  <a href="https://personal-portfolio-kappa-swart-94.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/minhnghia-vu-784678242/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/RupErz" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
 ## 🚀 About Me
 
 - 🎓 **Student** passionate about full-stack development
@@ -86,20 +97,6 @@ const rupert = {
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RupErz&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
-</div>
-
-## 🌐 Connect With Me
-
-<div align="center">
-  <a href="https://personal-portfolio-kappa-swart-94.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/minhnghia-vu-784678242/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/RupErz" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
 </div>
 
 ## 💭 Random Dev Quote
